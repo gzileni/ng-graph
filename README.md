@@ -55,13 +55,6 @@ data = [
   {date: 2011-10-18, value: 59.2},
   {date: 2011-10-19, value: 58.9},
   {date: 2011-10-20, value: 57.2}
-```
-<sit-graph-line [title]="title"
-                [width]="width"
-                [height]="height"
-                [unit]="unit"
-                [data]="data">
-</sit-graph-line>
-```
+
 
 
